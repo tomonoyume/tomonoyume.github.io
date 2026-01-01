@@ -2,11 +2,11 @@
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: single
-author_profile: true
+layout: splash
+author_profile: false
 ---
 
-**i am cooked, roasted, and burned to a crisp**
+**this is tomo experimenting with texts**
 - *experimetn*
 - *test*
 - test
