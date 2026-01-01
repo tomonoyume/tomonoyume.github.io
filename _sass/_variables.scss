@@ -52,7 +52,7 @@ $monospace-code: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consol
 $handwritten: 'Segoe Print', 'Bradley Hand', Chilanka, TSCu_Comic, casual, cursive;
 
 /* Defaults used in Minimal mistakes */
-$default-sans-serif: "Noto Sans Thai Looped", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$default-sans-serif: "Kanit", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $default-serif: Georgia, Times, serif;
 $default-monospace: Monaco, Consolas, "Lucida Console", monospace;
 
@@ -97,7 +97,7 @@ $darker-gray: mix(#000, $gray, 60%) !default;
 $light-gray: mix(#fff, $gray, 50%) !default;
 $lighter-gray: mix(#fff, $gray, 90%) !default;
 
-$background-color: #98dfff !default;
+$background-color: #fff !default;
 $code-background-color: #fafafa !default;
 $code-background-color-dark: $light-gray !default;
 $text-color: $dark-gray !default;
