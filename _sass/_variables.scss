@@ -111,7 +111,7 @@ $success-color: #3fa63f;
 $warning-color: #d67f05;
 $danger-color: #ee5f5b;
 $info-color: #3b9cba;
-$focus-color: $primary-color;
+$focus-color: $primary-color !default;
 $active-color: mix(#fff, $primary-color, 80%);
 
 /* YIQ color contrast */
