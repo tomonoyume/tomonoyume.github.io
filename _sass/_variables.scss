@@ -97,22 +97,22 @@ $darker-gray: mix(#000, $gray, 60%) !default;
 $light-gray: mix(#fff, $gray, 50%) !default;
 $lighter-gray: mix(#fff, $gray, 90%) !default;
 
-$background-color: #fff !default;
-$code-background-color: #fafafa !default;
-$code-background-color-dark: $light-gray !default;
-$text-color: $dark-gray !default;
-$muted-text-color: mix(#fff, $text-color, 20%) !default;
-$border-color: $lighter-gray !default;
-$form-background-color: $lighter-gray !default;
-$footer-background-color: $lighter-gray !default;
+$background-color: #141010;
+$code-background-color: mix(#000, $background-color, 15%);
+$code-background-color-dark: mix(#000, $background-color, 20%);
+$text-color: #fff6fb;
+$muted-text-color: mix(#fff, $text-color, 20%);
+$border-color: mix(#fff, $background-color, 20%);
+$form-background-color: mix(#000, $background-color, 15%);
+$footer-background-color: mix($primary-color, #000, 10%);
 
-$primary-color: #F05E23;
-$success-color: #3fa63f !default;
-$warning-color: #d67f05 !default;
-$danger-color: #ee5f5b !default;
-$info-color: #3b9cba !default;
-$focus-color: $primary-color !default;
-$active-color: mix(#fff, $primary-color, 80%) !default;
+$primary-color: #f21368;
+$success-color: #3fa63f;
+$warning-color: #d67f05;
+$danger-color: #ee5f5b;
+$info-color: #3b9cba;
+$focus-color: $primary-color;
+$active-color: mix(#fff, $primary-color, 80%);
 
 /* YIQ color contrast */
 $yiq-contrasted-dark-default: $dark-gray !default;
@@ -157,8 +157,8 @@ $masthead-link-color-hover: mix(#000, $primary-color, 25%) !default;
 $navicon-link-color-hover: mix(#fff, $primary-color, 75%) !default;
 
 /* notices */
-$notice-background-mix: 80% !default;
-$code-notice-background-mix: 90% !default;
+$notice-background-mix: 90%;
+$code-notice-background-mix: 95%;
 
 /* syntax highlighting (base16) */
 $base00: #263238 !default;
