@@ -97,14 +97,14 @@ $darker-gray: mix(#000, $gray, 60%) !default;
 $light-gray: mix(#fff, $gray, 50%) !default;
 $lighter-gray: mix(#fff, $gray, 90%) !default;
 
-$background-color: #1d2021;
-$code-background-color: #2e3233;
-$code-background-color-dark: $light-gray;
-$text-color: #eee;
-$muted-text-color: mix(#fff, $text-color, 20%);
+$background-color: #98dfff;
+$code-background-color: #fafafa !default;
+$code-background-color-dark: $light-gray !default;
+$text-color: $dark-gray !default;
+$muted-text-color: mix(#fff, $text-color, 20%) !default;
 $border-color: $lighter-gray !default;
-$form-background-color: $lighter-gray;
-$footer-background-color: $lighter-gray;
+$form-background-color: $lighter-gray !default;
+$footer-background-color: $lighter-gray !default;
 
 $primary-color: #F05E23;
 $success-color: #3fa63f !default;
