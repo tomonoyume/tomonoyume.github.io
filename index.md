@@ -2,7 +2,7 @@
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: splash            # ใช้โหมด Splash เพื่อให้โชว์รูป Header เต็มหน้า
+layout: single            # ใช้โหมด Splash เพื่อให้โชว์รูป Header เต็มหน้า
 permalink: /              # กำหนดให้หน้าชื่อนี้เป็นหน้าแรก
 author_profile: false     # ปิดโปรไฟล์ผู้เขียนทางด้านซ้ายเพื่อเอา Sidebar มาเสียบแทน
 header:
