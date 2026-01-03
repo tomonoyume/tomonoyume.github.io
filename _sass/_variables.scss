@@ -97,23 +97,44 @@ $darker-gray: mix(#000, $gray, 60%);
 $light-gray: mix(#fff, $gray, 50%);
 $lighter-gray: mix(#fff, $gray, 90%);
 
-$primary-color: #ff981d;
-$success-color: #3fa63f;
-$warning-color: #d67f05;
-$danger-color: #ee5f5b;
-$info-color: #3b9cba;
-$focus-color: $primary-color; 
-$active-color: mix(#fff, $primary-color, 80%);
+$primary-color: #ff981d;            // สีหลัก สำหรับหัวข้อต่างๆ
+$success-color: #3fa63f;            // สีเวลาทำกล่องข้อความ
+$warning-color: #d67f05;            // สีเวลาทำกล่องข้อความ
+$danger-color: #ee5f5b;             // สีเวลาทำกล่องข้อความ
+$info-color: #3b9cba;               // สีเวลาทำกล่องข้อความ
+$focus-color: $primary-color;         // สีตอนเมื่อกดเลือก หรือเมื่อเลื่อนมาถึง
+$active-color: mix(#fff, $primary-color, 80%); // ไฮไลท์ตอนที่กำลังกด หรือกดค้าง
 
-$background-color: #141010;
-$code-background-color: mix(#000, $background-color, 15%);
-$code-background-color-dark: mix(#000, $background-color, 20%);
-$text-color: #fff6fb;
-$muted-text-color: mix(#fff, $text-color, 20%);
-$border-color: mix(#fff, $background-color, 20%);
-$form-background-color: mix(#000, $background-color, 15%);
-$footer-background-color: mix($primary-color, #000, 10%);
+$background-color: #141010;         // พื้นหลังทั้งหมด
+$code-background-color: mix(#000, $background-color, 15%);      // สีพื้นหลังกล่องโค้ด
+$code-background-color-dark: mix(#000, $background-color, 20%); // สีพื้นหลังกล่องโค้ด พิเศษใส่ไข่
+$text-color: #fff6fb;                                           //เนื้อหาที่พิมพ์
+$muted-text-color: mix(#fff, $text-color, 20%);                 // สีของวันที่ หรือข้อมูลประกอบที่ไม่อยากให้เด่นเท่าเนื้อหาหลัก
+$border-color: mix(#fff, $background-color, 20%);               // เส้นคั่นระหว่างเมนู
+$form-background-color: mix(#000, $background-color, 15%);      // สีพื้นหลังของช่องกรอกข้อมูลและช่องค้นหา
+$footer-background-color: mix($primary-color, #000, 10%);       // สีแถบดำด้านล่าง
 
+
+.author__urls.social-icons i,
+.author__urls.social-icons .svg-inline--fa,
+.page__footer-follow .social-icons i,
+.page__footer-follow .social-icons .svg-inline--fa  {
+  color: inherit;
+}
+
+/* next/previous buttons */
+.pagination--pager {
+  color: $text-color;
+  background-color: $primary-color;
+  border-color: transparent;
+
+  &:visited {
+    color: $text-color;
+  }
+}
+
+.ais-search-box .ais-search-box--input {
+  background-color: $form-background-color;
 
 /* YIQ color contrast */
 $yiq-contrasted-dark-default: $dark-gray !default;
