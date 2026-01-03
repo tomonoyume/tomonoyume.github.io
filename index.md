@@ -3,33 +3,33 @@ layout: splash        # เปลี่ยนเลย์เอ้าท์ห�
 permalink: /              # กำหนดลิ้งค์สำหรับเข้า
 author_profile: false     # เปิดหรือปิดโปรไฟล์มุมซ้าย
 
-tagline: ยินดีต้อนรับเข้าสู่หลังบ้านของโทโมะ~
-header:
+tagline: ยินดีต้อนรับเข้าสู่หลังบ้านผมครับ~
+header: 
   overlay_image: /assets/images/your-hero-image.jpg  # รูป Header ที่คุณต้องการ
   overlay_filter: 0.5     # ช่วยให้ข้อความบนรูปอ่านง่ายขึ้น
 
 # ส่วนการสร้าง Grid 
 feature_row:
   - image_path: /assets/images/tempbox.jpg
-    alt: "SlimeVR"
-    title: "SlimeVR Universe"
-    excerpt: "คู่มือการทำ Tracker และการ Onboarding แบบฉบับเกมเมอร์"
+    alt: "SlimeVR ไกด์ภาษาไทย"
+    title: "คู่มือการใช้งาน SlimeVR ภาษาไทย"
+    excerpt: "แนะนำแทร็กเกอร์เบื้องต้น การใช้งาน และรายละเอียดสำหรับผู้ใช้ SlimeVR"
     url: "/slimvr-docs/onboarding/"
-    btn_label: "สำรวจดาว SlimeVR"
+    btn_label: "เข้าสู่หน้าคู่มือสไลม์"
     btn_class: "btn--primary"
   - image_path: /assets/images/tempbox.jpg
-    alt: "3D Printing"
-    title: "3D Printing Workshop"
-    excerpt: "บันทึกการพิมพ์ 3 มิติ และเทคนิคการสร้างโมเดล"
+    alt: "Temp"
+    title: "placeholder"
+    excerpt: "placeholder"
     url: "/3d-printing/"
-    btn_label: "เข้าสู่โรงงาน"
+    btn_label: "placeholder"
     btn_class: "btn--info"
   - image_path: /assets/images/tempbox.jpg
-    alt: "Mental Health"
-    title: "Safe Space"
-    excerpt: "พื้นที่แบ่งปันเรื่องราวและการดูแลสุขภาพจิต"
+    alt: "Placeholderh"
+    title: "placeholder"
+    excerpt: "placeholder"
     url: "/mental-health/"
-    btn_label: "เข้าสู่พื้นที่ปลอดภัย"
+    btn_label: "placeholder"
     btn_class: "btn--success"
 
 ---
@@ -46,7 +46,6 @@ feature_row:
 
 ส่วนถ้าใครต้องการสนับสนุนผมโดยตรง ก็สามารถคลิกไปที่ {support me} ได้เลยนะครับ
 
-<br>
 <br>
 
 {% include feature_row %}
