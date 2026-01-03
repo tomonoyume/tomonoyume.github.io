@@ -112,29 +112,7 @@ $text-color: #fff6fb;                                           //เนื้�
 $muted-text-color: mix(#fff, $text-color, 20%);                 // สีของวันที่ หรือข้อมูลประกอบที่ไม่อยากให้เด่นเท่าเนื้อหาหลัก
 $border-color: mix(#fff, $background-color, 20%);               // เส้นคั่นระหว่างเมนู
 $form-background-color: mix(#000, $background-color, 15%);      // สีพื้นหลังของช่องกรอกข้อมูลและช่องค้นหา
-$footer-background-color: mix($primary-color, #000, 10%);       // สีแถบดำด้านล่าง
-
-
-.author__urls.social-icons i,
-.author__urls.social-icons .svg-inline--fa,
-.page__footer-follow .social-icons i,
-.page__footer-follow .social-icons .svg-inline--fa  {
-  color: inherit;
-}
-
-/* next/previous buttons */
-.pagination--pager {
-  color: $text-color;
-  background-color: $primary-color;
-  border-color: transparent;
-
-  &:visited {
-    color: $text-color;
-  }
-}
-
-.ais-search-box .ais-search-box--input {
-  background-color: $form-background-color;
+$footer-background-color: #15bec7;       // สีแถบดำด้านล่าง
 
 /* YIQ color contrast */
 $yiq-contrasted-dark-default: $dark-gray !default;
