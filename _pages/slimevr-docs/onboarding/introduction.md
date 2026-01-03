@@ -7,7 +7,7 @@ author_profile: false
 toc: false
 
 sidebar:
-  title: "Sample Title"
+  title: "คู่มือการใช้ SlimeVR"
   nav: sidebar-sample
 
 ---

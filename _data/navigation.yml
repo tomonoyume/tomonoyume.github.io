@@ -9,43 +9,32 @@ main:
     url: /about/
 
 sidebar-sample:
-  - title: "Parent Page A"
+  - title: "รู้จักแทร็กเกอร์"
     children:
-      - title: "Child Page A1"
+      - title: "SlimeVR คืออะไร?"
         url: /
-      - title: "Child Page A2"
+      - title: "ประเภทของแทร็กเกอร์"
         url: /
-      - title: "Child Page A3"
+      - title: "เปรียนเทียบชิป IMU"
         url: /
-      - title: "Child Page A4"
+      - title: "รู้ไว้ก่อนซื้อ"
         url: /
-  - title: "Parent Page B"
+  - title: "มีแทร็กเกอร์แล้วทำยังไง?"
     children:
-      - title: "Child Page B1"
+      - title: "ลงโปรแกรม"
         url: /
-      - title: "Child Page B2"
+      - title: "การตั้งค่าแรกของโปรแรกม"
         url: /
-      - title: "Child Page B3"
+      - title: "รายการเตรียมความพร้อมแทร็กเกอร์"
         url: /
-      - title: "Child Page B4"
+      - title: "Stay Aligned"
         url: /
-      - title: "Child Page B5"
+      - title: "การตั้งค่าในเกม VRChat"
         url: /
-  - title: "Parent Page C"
+      - title: "OSC/แทร็กเกอร์กับ Standalone"
+        url: /
+  - title: "เจอปัญหา ทำยังไง?"
     children:
-      - title: "Child Page C1"
+      - title: "ปัญหาที่พบได้บ่อย"
         url: /
-      - title: "Child Page C2"
-        url: /
-      - title: "Child Page C3"
-        url: /
-      - title: "Child Page C4"
-        url: /
-      - title: "Child Page C5"
-        url: /
-  - title: "Parent Page D"
-    children:
-      - title: "Child Page D1"
-        url: /
-      - title: "Child Page D2"
-        url: /
+      - title: "วิธีแจ้งปัญหาเมื่อแทร็กเกอร์มีปัญหา"
