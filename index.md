@@ -14,7 +14,7 @@ feature_row:
     alt: "SlimeVR ไกด์ภาษาไทย"
     title: "คู่มือการใช้งาน SlimeVR ภาษาไทย"
     excerpt: "แนะนำแทร็กเกอร์เบื้องต้น การใช้งาน และรายละเอียดสำหรับผู้ใช้ SlimeVR"
-    url: "/slimvr-docs/onboarding/introduction/"
+    url: "/slimevr-docs/onboarding/introduction/"
     btn_label: "เข้าสู่หน้าคู่มือสไลม์"
     btn_class: "btn--primary"
   - image_path: /assets/images/tempbox.jpg
