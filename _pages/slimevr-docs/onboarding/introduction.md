@@ -1,6 +1,7 @@
 ---
 title: "SlimeVR คืออะไร"
 layout: single
+classes: wide
 permalink: /slimevr-docs/intro/
 author_profile: false
 
