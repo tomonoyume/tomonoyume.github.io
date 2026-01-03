@@ -5,8 +5,9 @@ main:
     url: /before-you-buy/
   - title: "ไกด์ SlimeVR ภาษาไทย"
     url: /slimevr-guide-th/
-  - title: "รู้จักกับโทโมะ"
-    url: /about/
+  - title: "SlimeVR คืออะไร"
+    url: /slimevr-docs/onboarding/introduction/
+
 
 sidebar-sample:
   - title: "Parent Page A"
