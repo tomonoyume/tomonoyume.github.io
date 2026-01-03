@@ -1,5 +1,5 @@
 ---
-title: "SlimeVR คืออะไร"
+title: "เอกสารข้อมูลแทร็กเกอร์ SlimeVR"
 layout: single
 classes: wide
 permalink: /slimevr-docs/intro/

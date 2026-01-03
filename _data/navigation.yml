@@ -12,11 +12,9 @@ sidebar-sample:
   - title: "รู้จักแทร็กเกอร์"
     children:
       - title: "SlimeVR คืออะไร?"
-        url: /
-      - title: "ประเภทของแทร็กเกอร์"
-        url: /
+        url: /slimevr-docs/intro/
       - title: "เปรียนเทียบชิป IMU"
-        url: /
+        url: /slimevr-doc/imu-comparison/
       - title: "รู้ไว้ก่อนซื้อ"
         url: /
   - title: "มีแทร็กเกอร์แล้วทำยังไง?"
