@@ -1,7 +1,7 @@
 ---
 title: "SlimeVR คืออะไร"
 layout: single
-permalink: /intro/
+permalink: /slimevr-docs/intro/
 author_profile: false
 
 sidebar:
