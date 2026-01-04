@@ -48,3 +48,24 @@ feature_row:
 <br>
 
 {% include feature_row %}
+<style>
+  /* 1. สั่งให้แถบเมนูด้านบน (Masthead) กางออกเท่ากับเนื้อหา */
+  .masthead .wrapper {
+    max-width: 90% !important; /* หรือใส่ calc(100vw - 200px) ตามที่คุณตั้ง */
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+
+  /* 2. สั่งให้เนื้อหาหลัก (Main Content) กางออกเท่ากัน */
+  #main .wrapper {
+    max-width: 90% !important; 
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+
+  /* 3. จัดหัวข้อใหญ่ให้ตรงแนว */
+  .page__inner-wrap {
+    margin-left: 0 !important;
+    width: 100% !important;
+  }
+</style>
