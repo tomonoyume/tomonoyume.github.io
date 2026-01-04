@@ -32,13 +32,6 @@ feature_row:
     url: "/mental-health/"
     btn_label: "placeholder"
     btn_class: "btn--success"
-  - image_path: /assets/images/tempbox.jpg
-    alt: "คำอธิบาย 4"
-    title: "หัวข้อที่ 4"
-    excerpt: "รายละเอียดสั้นๆ ของรูปที่ 4"
-    url: "#"
-    btn_label: "อ่านเพิ่ม"
-    btn_class: "btn--warning"
 
 ---
 
