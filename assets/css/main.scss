@@ -7,3 +7,17 @@ search: false
 @import "variables"; // เพิ่มบรรทัดนี้เพื่อดึงค่าสีและฟอนต์ของคุณมาใช้
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+/* บังคับ Feature Row ให้รองรับ 4 คอลัมน์ */
+@media (min-width: 64em) {
+  .feature__item {
+    /* หาร 4 จะได้ประมาณ 25% แต่เราหักออกนิดหน่อยเพื่อให้มีช่องว่าง (Gutter) */
+    width: calc(25% - 1rem) !important;
+    margin-right: 1rem !important;
+  }
+
+  /* ล้าง margin ของตัวสุดท้ายในแถวเพื่อไม่ให้เบี้ยว */
+  .feature__item:nth-child(4n) {
+    margin-right: 0 !important;
+  }
+}
