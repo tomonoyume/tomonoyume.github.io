@@ -13,8 +13,6 @@ sidebar-sample:
     children:
       - title: "SlimeVR คืออะไร?"
         url: /slimevr-docs/intro/
-      - title: "ประเภทของแทร็กเกอร์"
-        url: /slimevr-docs/tracker-type/
       - title: "เปรียนเทียบชิป IMU"
         url: /slimevr-doc/imu-comparison/
       - title: "รู้ไว้ก่อนซื้อ"
