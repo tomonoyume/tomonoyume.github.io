@@ -1,8 +1,13 @@
 ---
 title: "คำเตือนการตั้งค่าใน VRChat"
 layout: single
-permalink: /slimvr-docs/onboarding/vrchat-settings/
+permalink: /slimvr-docs/vrchat-settings/
 author_profile: false
+classes: wide
+toc: false
+
 sidebar:
-  nav: "onboarding_sidebar"
+  title: "คู่มือการใช้ SlimeVR"
+  nav: sidebar-sample
+
 ---
