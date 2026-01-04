@@ -1,4 +1,5 @@
 ---
+title:
 layout: splash        # เปลี่ยนเลย์เอ้าท์หลัก
 author_profile: false     # เปิดหรือปิดโปรไฟล์มุมซ้าย
 
