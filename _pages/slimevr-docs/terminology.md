@@ -1,7 +1,7 @@
 ---
 title: "วิธีตรวจสอบและแจ้งปัญหา"
 layout: single
-permalink: /slimevr-docs/common-issue/
+permalink: /slimevr-docs/reporting-error/
 author_profile: false
 classes: wide
 toc: false

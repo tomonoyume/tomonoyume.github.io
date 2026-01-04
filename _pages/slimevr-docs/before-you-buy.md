@@ -1,5 +1,5 @@
 ---
-title: "รู้ไว้ก่อน Slime"
+title: "รู้ไว้ก่อนซื้อ"
 layout: single
 permalink: /before-you-buy/
 author_profile: false
