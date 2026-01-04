@@ -17,32 +17,32 @@ sidebar:
 เมื่อโหลดเสร็จแล้วก็เปิดตัวลงโปรแกรมครับ
 <br>
 
-![slimevronboard-1](/assets/images/slimeonboard/slimeonboard2.png)
+![slimevronboard-1](/assets/images/slimeonboard/slimeonboard2.png){: .align-center}
 <br>
 
 เมื่อเปิดตัวลงโปรแกรมขึ้นมา กดถัดไปได้เลยครับ
 <br>
 
-![slimevronboard-1](/assets/images/slimeonboard/slimeonboard3.png)
+![slimevronboard-1](/assets/images/slimeonboard/slimeonboard3.png){: .align-center}
 <br>
 
 ไม่ต้องตั้งค่าอะไรเพิ่มนะครับ กดถัดไปได้เลย
 <br>
 
-![slimevronboard-1](/assets/images/slimeonboard/slimeonboard4.png)
+![slimevronboard-1](/assets/images/slimeonboard/slimeonboard4.png){: .align-center}
 <br>
 
 รอโปรแกรมลงสักครู่
 <br>
 
-![slimevronboard-1](/assets/images/slimeonboard/slimeonboard5.png)
+![slimevronboard-1](/assets/images/slimeonboard/slimeonboard5.png){: .align-center}
 
 <br>
 
 เมื่อเสร็จแล้ว หากคุณกดปิด โปรแกรมก็จะเปิดแอพ SlimeVR feeder App ขึ้นมาโดยอัตโนมัติ และเข้าสู่หน้าการตั้งค่าครั้งแรก
 <br>
 
-![slimevronboard-1](/assets/images/slimeonboard/slimeonboard6.png)
+![slimevronboard-1](/assets/images/slimeonboard/slimeonboard6.png){: .align-center}
 
 <br>
 
