@@ -1,2 +1,13 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+/* จะทำงานเฉพาะหน้าที่มี class "full-docs" ใน Front Matter เท่านั้น */
+.full-docs .wrapper {
+  max-width: calc(100vw - 80px) !important; /* ขยายให้เกือบเต็มหน้าจอ เหลือขอบไว้เล็กน้อย */
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.full-docs .page {
+  width: calc(100% - 300px) !important; /* ปรับให้ Content กินพื้นที่ที่เหลือจาก Sidebar */
+}

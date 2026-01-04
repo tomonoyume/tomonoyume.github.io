@@ -3,7 +3,7 @@ title: "เอกสารข้อมูลแทร็กเกอร์ Slime
 layout: single
 permalink: /slimevr-docs/intro/
 author_profile: false
-classes: wide
+classes: full-docs
 toc: false
 
 sidebar:
