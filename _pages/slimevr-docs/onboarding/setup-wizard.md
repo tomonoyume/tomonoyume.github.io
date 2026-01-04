@@ -12,37 +12,64 @@ sidebar:
 
 ---
 
-ขั้นตอนแรก เราจะต้องไปโหลดโปรแกรมที่ Slimevr.dev โดยแนะนำให้ใช้กับฝั่ง PC หรือ Android เพราะว่าในระบบ IOS ไม่สามารถโหลดผ่าน App store โดยตรงได้ (จะต้อง Sideload)
-เมื่อโหลดเสร็จแล้วก็เปิดตัวลงโปรแกรมครับ
+เมื่อโปรแกรมเปิดขึ้นมาแล้ว จะอยู่ในหน้าภาษาอังกฤษ และจะถามถึงการขออนุญาติเก็บข้อมูลแบบไม่ระบุตัวตนเพือนำไปพัฒนาแอพเพิ่ม คุณสามารถตกลง หรือไม่ตกลงก็ได้
+และหากต้องการเปลี่ยนภาษา จะมีปุ่มเปลี่ยนภาษาที่ด้านล่างขวามือ
 <br>
 
-![slimevronboard-1](/assets/images/slimeonboard/slimeonboard2.png)
+![slimevronboard-1](/assets/images/slimeonboard/setup1.png){: .align-center}
 <br>
 
-เมื่อเปิดตัวลงโปรแกรมขึ้นมา กดถัดไปได้เลยครับ
+เมื่อพร้อมแล้ว ไปกันต่อเลยครับ
 <br>
 
-![slimevronboard-1](/assets/images/slimeonboard/slimeonboard3.png)
+![slimevronboard-1](/assets/images/slimeonboard/setup2.png){: .align-center}
 <br>
 
-ไม่ต้องตั้งค่าอะไรเพิ่มนะครับ กดถัดไปได้เลย
+แล้วโปรแกรมก็จะถามถึงประเภทแทร็กเกอร์ของคุณ หากใช้เป็นแทร็กเกอร์แบบ NRF ก็สามารถกดว่า "ดำเนินการต่อด้วยดองเกิล" ได้เลย โดยจะข้ามขั้นตอนการตั้งค่า Wi-Fi ไป แต่ถ้าเป็นแทร็กเกอร์แบบ ESP ก็จะต้องตั้งค่าข้อมูล Wi-Fi เพื่อเตรียมอัพโหลดเข้าสู่แทร็กเกอร์
 <br>
 
-![slimevronboard-1](/assets/images/slimeonboard/slimeonboard4.png)
+![slimevronboard-1](/assets/images/slimeonboard/setup3.png){: .align-center}
 <br>
 
-รอโปรแกรมลงสักครู่
+เสร็จเราก็จะต้องเปิดแทร็กเกอร์ แล้วต่อสาย USB-C จากคอมพิวเตอร์หรือโทรศัพท์เข้าสู่แทร็กเกอร์เพื่ออัปโหลดข้อมูล Wi-Fi ให้แทร็กเกอร์แต่ละตัว เมื่อเสร็จแล้ว ให้ต่อกับแทร็กเกอร์ตัวถัดไปได้เลย
 <br>
 
-![slimevronboard-1](/assets/images/slimeonboard/slimeonboard5.png)
-
-<br>
-
-เมื่อเสร็จแล้ว หากคุณกดปิด โปรแกรมก็จะเปิดแอพ SlimeVR feeder App ขึ้นมาโดยอัตโนมัติ และเข้าสู่หน้าการตั้งค่าครั้งแรก
-<br>
-
-![slimevronboard-1](/assets/images/slimeonboard/slimeonboard6.png)
+![slimevronboard-1](/assets/images/slimeonboard/setup4.png){: .align-center}
 
 <br>
 
-ขั้นตอนถัดไปจะเป็นการตั้งค่าการใช้งานครั้งแรก โดยกดคลิกไปที่นี่ได้เลย (something here)
+ถัดมาจะเป็นหน้าการกำหนดตำแหน่งแทร็กเกอร์ โดยเราจะคลิกเลือกไปที่ตำแหน่ง แล้วเลือกแทร็กเกอร์ที่จะอยู่ในตำแหน่งนั้น 
+<br>
+
+![slimevronboard-1](/assets/images/slimeonboard/setup5.png){: .align-center}
+<br>
+
+แล้วเลือกแทร็กเกอร์ที่จะอยู่ในตำแหน่งนั้น โดยสามารถที่จะใช้การแตะ 2 ครั้ง ไปทีแทร็กเกอร์แทนการเลือกได้ หากไม่รู้ว่าแทร็กเกอร์เป็นตัวไหน ให้ทำการขยับแทร็กเกอร์เพื่อให้มันสว่างขึ้นมา
+
+![slimevronboard-1](/assets/images/slimeonboard/setup6.png){: .align-center}
+<br>
+
+ถัดมาจะเป็นการตั้งศูนย์การติดตั้ง โดยจะมีแบบอัตโนมัติ และแบบกำหนดด้วยตัวเอง แนะนำให้ใช้เป็นแบบอัตโนมัติเพราะง่ายกว่า และแม่นยำกว่า
+
+![slimevronboard-1](/assets/images/slimeonboard/setup7.png){: .align-center}
+<br>
+
+โดยเริ่มต้นจากการยืนยันว่าคุณใส่แทร็กเกอร์ทั้งหมดแล้ว แล้วกดยืนยัน
+
+![slimevronboard-1](/assets/images/slimeonboard/setupa1.png){: .align-center}
+<br>
+
+ต่อด้วยการรีเซ็ตในขณะที่ยืนตรง แขนแนบลำตัว โดยจะนับถอยหลัง 3 วินาทีก่อนการรีเซ็ตจะเป็นผล
+
+![slimevronboard-1](/assets/images/slimeonboard/setupa2.png){: .align-center}
+<br>
+
+เสร็จแล้วให้ทำการตั้งศูนย์แทร็กเกอร์ใหม่ โดยให้ตัวเองอยู่ในท่าเล่นสกี หรือที่ผมเรียกว่า ไก่ย่างถูกเผา โดยจะนับถอยหลัง 3 วินาทีก่อนการตั้งศูนย์จะเป็นผล
+
+![slimevronboard-1](/assets/images/slimeonboard/setupa3.png){: .align-center}
+<br>
+
+เมื่อรีเซ็ตแล้ว ให้ลองขยับร่างกาย ขยับขาดู หากมีการเคลื่อนไหวที่ผิดปรกติ ก็สามารถย้อนกลับไปเริ่มขั้นตอนการตั้งศูนย์ใหม่อีกครั้งได้ แต่ถ้าการเคลื่อนไหวดีแล้ว ให้กดปุ่มเพื่อไปยังขั้นตอนต่อไปเลย
+
+![slimevronboard-1](/assets/images/slimeonboard/setupa4.png){: .align-center}
+<br>
