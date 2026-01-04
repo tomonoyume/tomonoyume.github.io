@@ -2,10 +2,11 @@
 layout: splash        # เปลี่ยนเลย์เอ้าท์หลัก
 author_profile: false     # เปิดหรือปิดโปรไฟล์มุมซ้าย
 
-tagline: ยินดีต้อนรับเข้าสู่หลังบ้านผมครับ~
 header: 
   overlay_image: /assets/images/your-hero-image.jpg  # รูป Header ที่คุณต้องการ
   overlay_filter: 0.5     # ช่วยให้ข้อความบนรูปอ่านง่ายขึ้น
+  overlay_color: "#000"
+  excerpt: "ยินดีต้อนรับเข้าสู่หลังบ้านผมครับ~"
 
 # ส่วนการสร้าง Grid 
 feature_row:
@@ -30,6 +31,13 @@ feature_row:
     url: "/mental-health/"
     btn_label: "placeholder"
     btn_class: "btn--success"
+  - image_path: /assets/images/tempbox.jpg
+    alt: "คำอธิบาย 4"
+    title: "หัวข้อที่ 4"
+    excerpt: "รายละเอียดสั้นๆ ของรูปที่ 4"
+    url: "#"
+    btn_label: "อ่านเพิ่ม"
+    btn_class: "btn--warning"
 
 ---
 
