@@ -13,26 +13,29 @@ sidebar-sample:
     children:
       - title: "SlimeVR คืออะไร?"
         url: /slimevr-docs/intro/
+      - title: "ประเภทของแทร็กเกอร์"
+        url: /slimevr-docs/tracker-type/
       - title: "เปรียนเทียบชิป IMU"
         url: /slimevr-doc/imu-comparison/
       - title: "รู้ไว้ก่อนซื้อ"
-        url: /
+        url: /before-you-buy/
   - title: "มีแทร็กเกอร์แล้วทำยังไง?"
     children:
-      - title: "ลงโปรแกรม"
-        url: /
-      - title: "การตั้งค่าแรกของโปรแรกม"
-        url: /
+      - title: "การลงโปรแกรม"
+        url: /slimevr-docs/install/
+      - title: "การตั้งค่าแรกของโปรแกรม"
+        url: /slimevr-docs/onboarding/
       - title: "รายการเตรียมความพร้อมแทร็กเกอร์"
-        url: /
+        url: /slimevr-docs/tracking-checklist/
       - title: "Stay Aligned"
-        url: /
+        url: /slimevr-docs/stay-aligned/
       - title: "การตั้งค่าในเกม VRChat"
-        url: /
-      - title: "OSC/แทร็กเกอร์กับ Standalone"
-        url: /
+        url: /slimvr-docs/vrchat-settings/
+      - title: "ใช้แทร็กเกอร์แบบ Standalone/OSC"
+        url: /slimvr-docs/slimevr-osc/
   - title: "เจอปัญหา ทำยังไง?"
     children:
       - title: "ปัญหาที่พบได้บ่อย"
-        url: /
+        url: /slimevr-docs/common-issue/
       - title: "วิธีแจ้งปัญหาเมื่อแทร็กเกอร์มีปัญหา"
+        url: /slimevr-docs/reporting-error/

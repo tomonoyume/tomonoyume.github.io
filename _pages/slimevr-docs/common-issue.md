@@ -1,6 +1,13 @@
 ---
-title: "แก้ปัญหาแทร็กสไลม์"
+title: "ปัญหาที่พบได้บ่อย"
 layout: single
-permalink: /Slimevr-troubleshooting/
-author_profile: true
+permalink: /slimevr-docs/common-issue/
+author_profile: false
+classes: wide
+toc: false
+
+sidebar:
+  title: "คู่มือการใช้ SlimeVR"
+  nav: sidebar-sample
+
 ---
