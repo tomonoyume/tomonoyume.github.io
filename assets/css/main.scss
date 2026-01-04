@@ -2,7 +2,11 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 search: false
 ---
-
+@media (min-width: 80em) {
+  #main {
+    max-width: 90%;
+  }
+}
 
 @charset "utf-8";
 @import "variables"; // เพิ่มบรรทัดนี้เพื่อดึงค่าสีและฟอนต์ของคุณมาใช้
