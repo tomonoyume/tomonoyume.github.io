@@ -10,7 +10,6 @@ header:
   overlay_filter: "0.5"
   # ถ้ามีรูปแล้ว ใส่บรรทัดนี้ได้เลย:
   overlay_image: /assets/images/hero.png
-#classes: wide
 # ส่วนการสร้าง Grid 
 feature_row:
   - image_path: /assets/images/tempbox.jpg
