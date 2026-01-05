@@ -1,6 +1,6 @@
 ---
 layout: splash        # เปลี่ยนเลย์เอ้าท์หลัก
-author_profile: false     # เปิดหรือปิดโปรไฟล์มุมซ้าย
+author_profile: true   # เปิดหรือปิดโปรไฟล์มุมซ้าย
 
 header: 
   overlay_image: /assets/images/your-hero-image.jpg  # รูป Header ที่คุณต้องการ
@@ -19,16 +19,16 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/images/tempbox.jpg
     alt: "Temp"
-    title: "placeholder"
+    title: "สารบัญ"
     excerpt: "placeholder"
     url: "/3d-printing/"
     btn_label: "placeholder"
     btn_class: "btn--info"
   - image_path: /assets/images/tempbox.jpg
     alt: "Placeholderh"
-    title: "placeholder"
-    excerpt: "placeholder"
-    url: "/mental-health/"
+    title: "เติมพลังให้ผมและเพื่อนร่วมทาง"
+    excerpt: "รวมช่องทางสนันสนุนผมและเพื่อนๆ ในคอมมูนิตี้ที่เดินเคียงข้างผม"
+    url: "/support-me-n-friends/"
     btn_label: "placeholder"
     btn_class: "btn--success"
 
@@ -36,10 +36,8 @@ feature_row:
 
 ผมคือโทโมะครับ นี่เป็นเว็บไซดที่ผมรวบรวมข้อมูลของโปรเจ็คที่ผมทำ จดบันทึกข้อมูลต่างๆ ที่ผมสนใจ 
 ไม่ว่าจะเป็น SlimeVR, 3D printing หรือจะเป็นเกี่ยวกับ Vtubing ก็ดี
-แล้วผมเองก็เป็นพ่อค่า SlimeVR DIY ด้วย แต่โมเดลการขายของผมมันจะเป็นประมาณว่า
-ขายความเป็นเพื่อน ก่อนที่จะขายของ ซะมากกว่า
+โดยเป้าหมายที่ผมต้องการคือ
 
-โดยสาเหตุที่ผมสร้างตัวเว็บนี้ขึ้นก็คือ
 - ทำให้ข้อมูลเข้าถึงได้ง่ายขึ้น ในภาษาไทย
 - จดบันทึกเส้นทางการเดินทางของผมเอง
 - เป็นการโฆษณาหรือสร้างเครดิตให้ตัวเองในอนาคต
