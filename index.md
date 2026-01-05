@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/your-hero-image.jpg  # รูป Header ที่คุณต้องการ
   overlay_filter: 0.5     # ช่วยให้ข้อความบนรูปอ่านง่ายขึ้น
   overlay_color: "#000"
-  excerpt: "ยินดีต้อนรับเข้าสู่หลังบ้านผมครับ~"
+
 
 # ส่วนการสร้าง Grid 
 feature_row:
@@ -49,24 +49,3 @@ feature_row:
 <br>
 
 {% include feature_row %}
-<style>
-  /* 1. สั่งให้แถบเมนูด้านบน (Masthead) กางออกเท่ากับเนื้อหา */
-  .masthead .wrapper {
-    max-width: 90% !important; /* หรือใส่ calc(100vw - 200px) ตามที่คุณตั้ง */
-    padding-left: 0 !important;
-    padding-right: 0 !important;
-  }
-
-  /* 2. สั่งให้เนื้อหาหลัก (Main Content) กางออกเท่ากัน */
-  #main .wrapper {
-    max-width: 90% !important; 
-    padding-left: 0 !important;
-    padding-right: 0 !important;
-  }
-
-  /* 3. จัดหัวข้อใหญ่ให้ตรงแนว */
-  .page__inner-wrap {
-    margin-left: 0 !important;
-    width: 100% !important;
-  }
-</style>
