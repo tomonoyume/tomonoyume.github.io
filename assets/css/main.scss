@@ -25,3 +25,7 @@ search: false
 .page__inner-wrap .page__title {
   display: none !important;
 }
+
+.layout--single .page__title {
+  display: none;
+}
