@@ -73,3 +73,8 @@ sidebar:
 
 ![slimevronboard-1](/assets/images/slimeonboard/setupa4.png){: .align-center}
 <br>
+
+เท่านี้ การตั้งค่าเบื้องต้นก็เรียบร้อยแล้ว แต่เพื่อความถูกต้องในการใช้งาน และให้ประสิทธิภาพการจับตำแหน่งทำได้ดีที่สุด คุณจะต้องทำตามรายการการเตรียมพร้อมแทร็กเกอร์ด้วย ซึ่งจะแนะนำในหน้าถัดไป
+
+![slimevronboard-1](/assets/images/slimeonboard/setup13.png){: .align-center}
+<br>
