@@ -2,6 +2,7 @@
 title: "มุมเล็กๆ ของโทโมะ"
 layout: single      # เปลี่ยนเลย์เอ้าท์หลัก
 author_profile: true   # เปิดหรือปิดโปรไฟล์มุมซ้าย
+classes: wide
 excerpt: "ยินดีต้อนรับเข้าสู่หลังบ้านผมครับ~"
 # 3. การตั้งค่า Header (แถบดำๆ) ของเดิมของคุณ ใช้ได้ต่อเลยครับ
 header:
@@ -9,7 +10,7 @@ header:
   overlay_filter: "0.5"
   # ถ้ามีรูปแล้ว ใส่บรรทัดนี้ได้เลย:
   overlay_image: /assets/images/hero.png
-
+classes: wide
 # ส่วนการสร้าง Grid 
 feature_row:
   - image_path: /assets/images/tempbox.jpg
