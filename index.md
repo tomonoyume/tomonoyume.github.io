@@ -52,7 +52,7 @@ feature_row:
 <style>
   /* 1. สั่งให้แถบเมนูด้านบน (Masthead) กางออกเท่ากับเนื้อหา */
   .masthead .wrapper {
-    max-width: calc(100vw - 200px) !important; /* หรือใส่ calc(100vw - 200px) ตามที่คุณตั้ง */
+    max-width: 90% !important; /* หรือใส่ calc(100vw - 200px) ตามที่คุณตั้ง */
     padding-left: 0 !important;
     padding-right: 0 !important;
   }
