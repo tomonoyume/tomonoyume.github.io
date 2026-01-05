@@ -2,12 +2,11 @@
 title: "มุมเล็กๆ ของโทโมะ"
 layout: single      # เปลี่ยนเลย์เอ้าท์หลัก
 author_profile: true   # เปิดหรือปิดโปรไฟล์มุมซ้าย
-
+excerpt: "ยินดีต้อนรับเข้าสู่หลังบ้านผมครับ~"
 # 3. การตั้งค่า Header (แถบดำๆ) ของเดิมของคุณ ใช้ได้ต่อเลยครับ
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  excerpt: "ยินดีต้อนรับเข้าสู่หลังบ้านผมครับ~"
   # ถ้ามีรูปแล้ว ใส่บรรทัดนี้ได้เลย:
   overlay_image: /assets/images/hero.png
 
@@ -71,8 +70,5 @@ feature_row:
     width: 100% !important;
   }
   
-  /* ซ่อนหัวข้อในเนื้อหา (เพราะเรามีบน Header รูปภาพแล้ว) */
-  .layout--single .page__title {
-    display: none;
-  }
+
 </style>
