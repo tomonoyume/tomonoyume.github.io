@@ -1,12 +1,14 @@
 ---
-layout: splash        # เปลี่ยนเลย์เอ้าท์หลัก
+layout: single      # เปลี่ยนเลย์เอ้าท์หลัก
 author_profile: true   # เปิดหรือปิดโปรไฟล์มุมซ้าย
 
-header: 
-  overlay_image: /assets/images/your-hero-image.jpg  # รูป Header ที่คุณต้องการ
-  overlay_filter: 0.5     # ช่วยให้ข้อความบนรูปอ่านง่ายขึ้น
+# 3. การตั้งค่า Header (แถบดำๆ) ของเดิมของคุณ ใช้ได้ต่อเลยครับ
+header:
   overlay_color: "#000"
-
+  overlay_filter: "0.5"
+  excerpt: "ยินดีต้อนรับเข้าสู่หลังบ้านผมครับ~"
+  # ถ้ามีรูปแล้ว ใส่บรรทัดนี้ได้เลย:
+  # overlay_image: /assets/images/header-bg.jpg
 
 # ส่วนการสร้าง Grid 
 feature_row:

@@ -8,3 +8,7 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+/* ซ่อนหัวข้อในเนื้อหา (เพราะเรามีบน Header รูปภาพแล้ว) */
+.layout--single .page__title {
+  display: none;
+}
