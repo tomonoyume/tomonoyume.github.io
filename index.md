@@ -70,8 +70,6 @@ feature_row:
     width: 100% !important;
   }
   
-  .layout--single .page__title {
-  display: none;
-  }
+  
 
 </style>
