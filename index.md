@@ -1,4 +1,5 @@
 ---
+title: "มุมเล็กๆ ของโทโมะ"
 layout: single      # เปลี่ยนเลย์เอ้าท์หลัก
 author_profile: true   # เปิดหรือปิดโปรไฟล์มุมซ้าย
 
@@ -8,7 +9,7 @@ header:
   overlay_filter: "0.5"
   excerpt: "ยินดีต้อนรับเข้าสู่หลังบ้านผมครับ~"
   # ถ้ามีรูปแล้ว ใส่บรรทัดนี้ได้เลย:
-  # overlay_image: /assets/images/header-bg.jpg
+  overlay_image: /assets/images/hero.png
 
 # ส่วนการสร้าง Grid 
 feature_row:
@@ -68,5 +69,10 @@ feature_row:
   .page__inner-wrap {
     margin-left: 0 !important;
     width: 100% !important;
+  }
+  
+  /* ซ่อนหัวข้อในเนื้อหา (เพราะเรามีบน Header รูปภาพแล้ว) */
+  .layout--single .page__title {
+    display: none;
   }
 </style>
