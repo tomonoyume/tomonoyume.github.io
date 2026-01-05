@@ -2,6 +2,30 @@
 layout: default
 ---
 
+<style>
+  /* 1. ขยาย Container หลักของหน้า Splash ให้กว้างเท่ากับที่คุณตั้งไว้ใน variables */
+  .layout--splash .wrapper {
+    max-width: calc(100vw - 200px) !important;
+  }
+
+  /* 2. บังคับให้แถบเมนูด้านบน (Masthead) กางออกให้สุดขอบเท่ากับเนื้อหา */
+  .layout--splash .masthead .wrapper {
+    max-width: calc(100vw - 200px) !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+
+  /* 3. จัดตำแหน่งเนื้อหาภายใน (Article) ให้ชิดซ้ายตรงกับโลโก้ */
+  .layout--splash .splash {
+    width: 100% !important;
+  }
+
+  /* 4. กรณีมี Page Hero (รูปใหญ่ด้านบน) ให้กางออกด้วย */
+  .layout--splash .page__hero--overlay .wrapper {
+    max-width: calc(100vw - 200px) !important;
+  }
+</style>
+
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
   {% include page__hero.html %}
 {% elsif page.header.video.id and page.header.video.provider %}
