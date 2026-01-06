@@ -8,21 +8,3 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-/* --- แก้ไข: ซ่อนเฉพาะหัวข้อในเนื้อหา แต่ "ไม่ซ่อน" หัวข้อบนรูป --- */
-
-/* 1. บังคับให้หัวข้อบนรูป (Hero) แสดงผลเสมอ */
-.page__hero--overlay .page__title {
-  display: block !important;
-  color: #fff !important; /* บังคับสีขาวเผื่อมันจม */
-}
-
-.page__hero--overlay .page__lead {
-  display: block !important;
-  color: #fff !important;
-}
-
-/* 2. ซ่อนหัวข้อที่ซ้ำในเนื้อหา (ข้างล่างรูป) เท่านั้น */
-.page__inner-wrap .page__title {
-  display: none !important;
-}
-
