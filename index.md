@@ -48,27 +48,30 @@ feature_row:
 <br>
 
 {% include feature_row %}
+
 <style>
-  /* 1. สั่งให้แถบเมนูด้านบน (Masthead) กางออกเท่ากับเนื้อหา */
-  .masthead .wrapper {
-    max-width: 90% !important; /* หรือใส่ calc(100vw - 200px) ตามที่คุณตั้ง */
+ <style>
+  /* 1. ขยาย Container หลักของหน้า Splash ให้กว้างเท่ากับที่คุณตั้งไว้ใน variables */
+  .layout--single .wrapper {
+    max-width: calc(100vw - 200px) !important;
+  }
+
+  /* 2. บังคับให้แถบเมนูด้านบน (Masthead) กางออกให้สุดขอบเท่ากับเนื้อหา */
+  .layout--single .masthead .wrapper {
+    max-width: calc(100vw - 200px) !important;
     padding-left: 0 !important;
     padding-right: 0 !important;
   }
 
-  /* 2. สั่งให้เนื้อหาหลัก (Main Content) กางออกเท่ากัน */
-  #main .wrapper {
-    max-width: 90% !important; 
-    padding-left: 0 !important;
-    padding-right: 0 !important;
-  }
-
-  /* 3. จัดหัวข้อใหญ่ให้ตรงแนว */
-  .page__inner-wrap {
-    margin-left: 0 !important;
+  /* 3. จัดตำแหน่งเนื้อหาภายใน (Article) ให้ชิดซ้ายตรงกับโลโก้ */
+  .layout--single .single {
     width: 100% !important;
   }
-  
-  
 
+  /* 4. กรณีมี Page Hero (รูปใหญ่ด้านบน) ให้กางออกด้วย */
+  .layout--single .page__hero--overlay .wrapper {
+    max-width: calc(100vw - 200px) !important;
+  }
 </style>
+
+
