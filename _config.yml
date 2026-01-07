@@ -19,8 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   หน้าเว็บโทโมะที่บันทึกสิ่งที่โทโมะสนใจเอาไว้ ไม่ว่าจะเป็นเกี่่ยวกับ
   VRChat SlimeVR หรือ Vtuber ก็ดี
   และเรื่องน่าสนใจต่างๆ ที่ผมอยากจะพูดถึง
-twitter_username: username
-github_username: username
+twitter_username: Tomomimomimi
+#github_username: 
 minimal_mistakes_skin: dark
 search: true
 
@@ -62,15 +62,15 @@ author:
   avatar : "/assets/images/pfp-test.jpg"
   bio    : "แค่คนชอบ VRChat ที่อยากเห็นคอมมูนิตี้เติบโต และอยากแชร์สิ่งที่ตัวเองสนใจ ในฐานะเพื่อนคนหนึ่ง"
   links:
-    - label: "Website"
+    - label: "Linktree"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://linktr.ee/TomomiinVR"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/Tomomimomimi"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/tomonoyume"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
