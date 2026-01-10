@@ -1,12 +1,12 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
+  - title: "ไกด์ข้อมูล SlimeVR"
+    url: /slimevr-docs/intro/
+  - title: "สารบัญ"
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "สนับสนุนผมและเพื่อนๆ"
+    url: /supports/
 
 sidebar-sample:
   - title: "รู้จักแทร็กเกอร์"
