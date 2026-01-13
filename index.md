@@ -11,7 +11,7 @@ header:
   overlay_image: /assets/images/hero.png
 # ส่วนการสร้าง Grid 
 feature_row:
-  - image_path: /assets/images/tempbox.jpg
+  - image_path: /assets/images/slimevrguide.png
     alt: "SlimeVR ไกด์ภาษาไทย"
     title: "คู่มือการใช้งาน SlimeVR ภาษาไทย"
     excerpt: "ศูนย์รวมข้อมูลเบื้องต้นสำหรับผู้สนใจเกี่ยวกับ SlimeVR"
