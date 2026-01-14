@@ -23,7 +23,7 @@ feature_row:
     title: "placeholder"
     excerpt: "placeholder"
     url: "/supports/"
-    btn_label: "สนันสนุนพวกเราที่นี่"
+    btn_label: "placeholder"
     btn_class: "btn--success"
 
 ---
