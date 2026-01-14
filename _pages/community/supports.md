@@ -5,12 +5,12 @@ layout: splash
 author_profile: false
 
 feature_row:
-  - image_path: /assets/images/tempbox.jpg
+  - image_path: /assets/images/slimead.png
     alt: "แทร็กเกอร์ SlimeVR DIY TomoTrack"
     title: "แทร็กเกอร์ SlimeVR DIY TomoTrack"
     excerpt: "ร้านขายแทร็กเกอร์ของโทโมะเอง"
     url: "/tomotrack/"
-    btn_label: "ดูขอมูลเพิ่มเติม"
+    btn_label: "ดูข้อมูลแทร็กเกอร์"
     btn_class: "btn--primary"
   - image_path: /assets/images/ten_01.png
     alt: "tentensan"
