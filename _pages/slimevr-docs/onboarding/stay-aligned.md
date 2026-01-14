@@ -23,7 +23,7 @@ Stay aligned เป็นฟิเจอร์ที่ช่วยลดกา�
 
 โดยผมทำเป็นคลิปอธิบายอยู่ในนี้เลย! 
 
-<div style="text-align: center; margin: 20px 0;">
+<div style="max-width: 315px; margin: auto;">
   <iframe width="315" height="560" src="https://www.youtube.com/embed/0q6mdGppFD8" frameborder="0" allowfullscreen></iframe>
 </div>
 
