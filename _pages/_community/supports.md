@@ -3,10 +3,11 @@ title: "สนันสนุนผมและเพื่อนๆ"
 permalink: /supports/
 layout: splash
 author_profile: false
+
 feature_row:
   - image_path: /assets/images/tempbox.png
     alt: "แทร็กเกอร์ SlimeVR DIY TomoTrack"
-    title: "ทร็กเกอร์ SlimeVR DIY TomoTrack"
+    title: "แทร็กเกอร์ SlimeVR DIY TomoTrack"
     excerpt: "ร้านขายแทร็กเกอร์ของโทโมะเอง"
     url: "/tomotrack/"
     btn_label: "ดูขอมูลเพิ่มเติม"
