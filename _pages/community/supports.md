@@ -12,13 +12,11 @@ feature_row:
     url: "/tomotrack/"
     btn_label: "ดูขอมูลเพิ่มเติม"
     btn_class: "btn--primary"
-  - image_path: /assets/images/tempbox.jpg
-    alt: "Temp"
-    title: "placeholder"
-    excerpt: "placeholder"
-    url: "/3d-printing/"
-    btn_label: "placeholder"
-    btn_class: "btn--info"
+  - image_path: /assets/images/ten_1.png
+    alt: "tentensan"
+    title: "Commission งานวาด"
+    excerpt: "สำหรับใครที่อยากได้รูปวาดน่ารักๆ แบบมาสคอตของผมเป็นต้น โดยติดต่อผ่าน Discord ได้เลย! <br><span style='color: #7289da;'><i class='fab fa-discord'></i> Discord: sleepy_t</span>"
+    
   - image_path: /assets/images/tempbox.jpg
     alt: "Placeholder"
     title: "placeholder"
