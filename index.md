@@ -29,7 +29,7 @@ feature_row:
     alt: "Placeholderh"
     title: "เติมพลังให้ผมและเพื่อนร่วมทาง"
     excerpt: "รวมช่องทางสนันสนุนผมและเพื่อนๆ ในคอมมูนิตี้ที่เดินเคียงข้างผม"
-    url: "/support-me-n-friends/"
+    url: "/supports/"
     btn_label: "สนันสนุนพวกเราที่นี่"
     btn_class: "btn--success"
 
