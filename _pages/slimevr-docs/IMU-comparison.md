@@ -38,4 +38,4 @@ IMU (Inertial Measurement Unit) หรือหน่วยวัดความ
 
 ประสบการ์ณส่วนตัว: ผมเองเคยใช้ชิป BMI270 มาก่อน ตัวนี้จะมีจุดอ่อนเรื่องการหมุนตัวเวลาเล่น หากไม่ได้ขยับเยอะ หรือหมุนตัวบ่อย ก็จะช่วยเพิ่มเวลาก่อนที่จะต้องรีเซ็ตได้
 
-ข้อมูลอ้างอิงจาก: https://docs.slimevr.dev/diy/imu-comparison.html
+อ้างอิงข้อมูลจาก: <https://docs.slimevr.dev/diy/imu-comparison.html>
