@@ -5,7 +5,7 @@ layout: splash
 author_profile: false
 
 feature_row:
-  - image_path: /assets/images/tempbox.png
+  - image_path: /assets/images/tempbox.jpg
     alt: "แทร็กเกอร์ SlimeVR DIY TomoTrack"
     title: "แทร็กเกอร์ SlimeVR DIY TomoTrack"
     excerpt: "ร้านขายแทร็กเกอร์ของโทโมะเอง"
