@@ -34,6 +34,6 @@ feature_row:
 {% include feature_row %}
 
 {: .text-center}
-## 🤝 Community Partners
+## 🤝 Partners
 *ร้านค้าและบริการในโลก VR ที่เราไว้วางใจ*
 [ ใช้ระบบ Featurette ของ Minimal Mistakes เพื่อโชว์โลโก้ร้านพาร์ทเนอร์ ]
