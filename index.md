@@ -26,7 +26,7 @@ feature_row:
     btn_label: "placeholder"
     btn_class: "btn--info"
   - image_path: /assets/images/tempbox.jpg
-    alt: "Placeholderh"
+    alt: "Placeholder"
     title: "เติมพลังให้ผมและเพื่อนร่วมทาง"
     excerpt: "รวมช่องทางสนันสนุนผมและเพื่อนๆ ในคอมมูนิตี้ที่เดินเคียงข้างผม"
     url: "/supports/"
