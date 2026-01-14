@@ -30,10 +30,8 @@ feature_row:
 {: .text-center}
 ## 🧡 The Founding Circle
 *พื้นที่นี้แด่ตัวเอง เพื่อนผู้ร่วมเดินทางและสร้างแรงบันดาลใจ*
-[ ใส่รูปและเนื้อหาของคุณ Nashikami, พ่อค้ากล่อง, SATA ]
 {% include feature_row %}
 
 {: .text-center}
 ## 🤝 Partners
-*ร้านค้าและบริการในโลก VR ที่เราไว้วางใจ*
-[ ใช้ระบบ Featurette ของ Minimal Mistakes เพื่อโชว์โลโก้ร้านพาร์ทเนอร์ ]
+*ร้านค้าและบริการในโลก VR ที่ผมอยากสนันสนุน*
