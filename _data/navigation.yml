@@ -30,7 +30,7 @@ sidebar-sample:
       - title: "การตั้งค่าในเกม VRChat"
         url: /slimvr-docs/vrchat-settings/
       - title: "ใช้แทร็กเกอร์แบบ Standalone/OSC"
-        url: /slimvr-docs/slimevr-osc/
+        url: /slimevr-docs/slimevr-osc/
   - title: "เจอปัญหา ทำยังไง?"
     children:
       - title: "ปัญหาที่พบได้บ่อย"

@@ -1,5 +1,5 @@
 ---
-title: "ใข้แทร็กเกอร์กับแว่นแบบ Standalone ผ่าน OSC"
+title: "ใช้ SlimeVR ผ่านระบบ OSC"
 layout: single
 permalink: /slimevr-doc/slimevr-osc/
 author_profile: false
