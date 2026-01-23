@@ -67,6 +67,8 @@ sidebar:
 เสร็จแล้วให้ทำการตั้งศูนย์แทร็กเกอร์ใหม่ โดยให้ตัวเองอยู่ในท่าเล่นสกี หรือที่ผมเรียกว่า ไก่ย่างถูกเผา โดยจะนับถอยหลัง 3 วินาทีก่อนการตั้งศูนย์จะเป็นผล
 
 ![slimevronboard-1](/assets/images/slimeonboard/setupa3.png){: .align-center}
+![slimevronboard-1](/assets/images/slimeonboard/setup3aex.jpg){: .align-center}
+cr. Spazzwan@slimevr discord official (Temp, till i can make my own img guide with his reference)
 <br>
 
 เมื่อรีเซ็ตแล้ว ให้ลองขยับร่างกาย ขยับขาดู หากมีการเคลื่อนไหวที่ผิดปรกติ ก็สามารถย้อนกลับไปเริ่มขั้นตอนการตั้งศูนย์ใหม่อีกครั้งได้ แต่ถ้าการเคลื่อนไหวดีแล้ว ให้กดปุ่มเพื่อไปยังขั้นตอนต่อไปเลย
