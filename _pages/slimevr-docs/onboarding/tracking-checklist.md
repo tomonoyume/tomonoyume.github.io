@@ -51,7 +51,7 @@ sidebar:
 
 ถ้าหากโปรแกรมมีการแนะนำให้ทำการรีเซ็ตแทร็กเกอร์ และตั้งศูนย์ใหม่ สามารถทำตามที่รายการแนะนำได้เลยครับ
 
-![slimevronboard-1](/assets/images/slimeonboard/trackerresetwarn.png){: .align-center}
+![slimevronboard-1](/assets/images/slimeonboard/checklistreset.png){: .align-center}
 
 แล้วก็ ก่อนการเล่นทุกครั้ง เราควรจะต้องวางแทร็กเกอร์ไว้บนพื้นนิ่งๆ ประมาณ 10-15 วินาที เพื่อให้ IMU ด้านในตั้งศูนย์ตัวเอง
 ถ้าหากไม่ได้่ตั้งมันจะขึ้นเป็นคำเตือนสีเหลืองๆ แบบนี้
