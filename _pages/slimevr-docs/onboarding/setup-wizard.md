@@ -80,3 +80,6 @@ cr. Spazzwan@slimevr discord official (Temp, till i can make my own img guide wi
 
 ![slimevronboard-1](/assets/images/slimeonboard/setup13.png){: .align-center}
 <br>
+
+{: .notice--info}
+ขั้นตอนถัดไปเราจะไล่ทำตามที่รายการแนะนำของ SlimeVR แนะนำให้เราตั้ง คลิกที่นี่ได้เลย: [ไปที่รายการตั้งค่าแทร็กเกอร์]({% link _pages/slimevr-docs/onboarding/tracking-checklist.md %}){: .btn .btn--primary}
